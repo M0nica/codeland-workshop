@@ -30,6 +30,7 @@ Attendees should walk away from the workshop with a working static blog generate
 - https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages
 - http://girldevelopit.github.io/gdi-featured-git-github/#/
 - Giphy
+- https://github.com/melangue/dactl
 
 
 **TODO:**
